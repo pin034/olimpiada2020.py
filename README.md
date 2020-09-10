@@ -1,1 +1,1 @@
-# olimpiada2020.py
+# olimpiada2020
